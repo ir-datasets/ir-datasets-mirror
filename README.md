@@ -140,3 +140,5 @@ A mirror for small files in the [ir_datasets](https://ir-datasets.com/) package.
 | [`0dd5ba173c695362a8705056edca481b`](https://mirror.ir-datasets.com/0dd5ba173c695362a8705056edca481b) | https://trec.nist.gov/data/neuclir/2023/neuclir-2023-technical_topics.0719.jsonl | 86.5 KB | 2024-02-19T22:59:35.822412 |
 | [`cea4ff3d9eba612c7119e6490217d4e1`](https://mirror.ir-datasets.com/cea4ff3d9eba612c7119e6490217d4e1) | https://trec.nist.gov/data/neuclir/2023/neuclir-2023-qrels.final.tar.gz | 6.0 MB | 2024-02-19T22:59:43.873976 |
 | [`1d1ffe3d3a3a7fc64278ac7cc72b8bde`](https://mirror.ir-datasets.com/1d1ffe3d3a3a7fc64278ac7cc72b8bde) | https://trec.nist.gov/data/cast/2022-qrels.txt | 1.4 MB | 2025-05-09T14:29:48.948556 |
+| [`23e5607081191b153738e81fbd834680`](https://mirror.ir-datasets.com/23e5607081191b153738e81fbd834680) | http://ir.dcs.gla.ac.uk/resources/test_collections/npl/npl.tar.gz | | |
+| [`1730f7be572d95a5a4b56c59a7b900a5`](https://mirror.ir-datasets.com/1730f7be572d95a5a4b56c59a7b900a5) | http://ir.dcs.gla.ac.uk/resources/test_collections/cran/cran.tar.gz | | |
